@@ -1,0 +1,8 @@
+[package]
+name = "cuda-reflex"
+version = "0.1.0"
+edition = "2021"
+description = "Reflex system — fast involuntary agent responses that bypass deliberation, inspired by biological reflex arcs"
+
+[dependencies]
+serde = { version = "1", features = ["derive"] }
